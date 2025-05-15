@@ -30,9 +30,14 @@ In *Galactic Survivors*, you upgrade your character with randomised power-ups an
 
 ## 🖼️ Screenshots
 
-### Main Menu
-![Main Menu](Screenshots/)
+### 👾 Gameplay Preview
 
+| ![Player1](GalacticSurvivorsScreenshots/Player1.png) | ![Player1.1](GalacticSurvivorsScreenshots/Player1.1.png) | ![Player1.3](GalacticSurvivorsScreenshots/Player1.3.png) |
+|------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
+| ![Player2](GalacticSurvivorsScreenshots/Player2.png) | ![Player3](GalacticSurvivorsScreenshots/Player3.png)     | ![Player4](GalacticSurvivorsScreenshots/Player4.png)     |
+| ![Player3.2](GalacticSurvivorsScreenshots/Player3.2.png) | ![Player3.3](GalacticSurvivorsScreenshots/Player3.3.png) | ![Player3.6](GalacticSurvivorsScreenshots/Player3.6.png) |
+
+> The screenshots above showcase player upgrades, alien hordes, and in-game visual effects.
 
 ---
 
