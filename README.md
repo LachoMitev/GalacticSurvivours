@@ -30,9 +30,9 @@ In *Galactic Survivors*, you upgrade your character with randomised power-ups an
 
 ## 🖼️ Screenshots
 
-*(Add images here if you have any, or GIFs for gameplay preview)*  
-Example:  
-![Gameplay Screenshot](images/screenshot1.png)
+### Main Menu
+![Main Menu](Screenshots/Screenshot%202025-05-15%20105004.png)
+
 
 ---
 
